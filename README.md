@@ -1,2 +1,2 @@
 # Mars1
-Another attempt to learn git commands
+A new line of code
